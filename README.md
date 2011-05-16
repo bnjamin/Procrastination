@@ -1,9 +1,0 @@
-Procrastination
---------------
-
-Procrastination is an app I'm being redirected to,
-when I browse the web when I'm supposed to work.
-
-You can see a blog post about it here:
-
-[How i use pow and a sinatra app to keep my motivation and stop procrastinating]: http://bnjamin.com/article/2011-05-16-How-i-Use-Pow,-selfcontrol-and-a-sinatra-app-to-stop-procrastinating
